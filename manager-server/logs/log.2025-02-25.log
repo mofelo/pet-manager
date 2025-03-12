@@ -1,0 +1,24 @@
+[2025-02-25T16:58:15.242] [ERROR] error - ReferenceError: data is not defined
+    at Object.fail (D:\projects\manager-server\utils\util.js:39:22)
+    at D:\projects\manager-server\routes\users.js:28:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\projects\manager-server\app.js:37:3
+    at async serve (D:\projects\manager-server\node_modules\koa-static\index.js:53:9)
+    at async logger (D:\projects\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\projects\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2025-02-25T16:58:29.022] [ERROR] error - ReferenceError: data is not defined
+    at Object.fail (D:\projects\manager-server\utils\util.js:39:22)
+    at D:\projects\manager-server\routes\users.js:28:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\projects\manager-server\app.js:37:3
+    at async serve (D:\projects\manager-server\node_modules\koa-static\index.js:53:9)
+    at async logger (D:\projects\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\projects\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2025-02-25T16:58:49.422] [ERROR] error - ReferenceError: data is not defined
+    at Object.fail (D:\projects\manager-server\utils\util.js:39:22)
+    at D:\projects\manager-server\routes\users.js:28:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\projects\manager-server\app.js:37:3
+    at async serve (D:\projects\manager-server\node_modules\koa-static\index.js:53:9)
+    at async logger (D:\projects\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (D:\projects\manager-server\node_modules\koa-bodyparser\index.js:78:5)
